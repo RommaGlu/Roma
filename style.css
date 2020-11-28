@@ -1,0 +1,28 @@
+body {
+   	background-color: #fa8e47;
+
+   }
+
+.a {
+	background-color: white;
+	width:600px;
+	height: 400px;
+	position:absolute;
+	top:50%;
+    left: 50%;
+    transform: translate(-50%, -50% );
+    border-radius:10px;
+	border: 1px solid white;
+	
+}
+.b {
+	position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50% );
+	background-color: red;
+	width:150px;
+	height:150px;
+	border: 1px solid red;
+    border-radius:50%;
+}
